@@ -1,5 +1,5 @@
 # 💫 About Me:
-## 🚀 About Me<br><br>Hi! I'm Laurence Jan 👋  <br>An aspiring Fullstack Developer who loves building modern and scalable applications.<br><br>💡 Passionate about:<br>- Web Development<br>- UI/UX Design<br>- System Development<br><br>🛠️ Currently working on:<br>- 📊 OJT Tracker System (Proposed for Globe)<br>- 🤖 RenAi AI Chat Application<br><br>📈 Always learning, always improving.
+## 🚀 About Me<br><br>Hi! I'm Laurence Jan 👋  <br>An aspiring Fullstack Developer who loves building modern and scalable applications.<br><br>💡 Passionate about:<br>- Web Development<br>- UI/UX Design<br>- System Development<br><br>📈 Always learning, always improving.
 
 
 ## 🌐 Socials:
