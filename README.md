@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 ## 🚀 About Me<br><br>Hi! I'm Laurence Jan 👋  <br>An aspiring Fullstack Developer who loves building modern and scalable applications.<br><br>💡 Passionate about:<br>- Web Development<br>- UI/UX Design<br>- System Development<br><br>📈 Always learning, always improving.
 
 
